@@ -1,28 +1,45 @@
-# Dodge the Creeps
+<div align="center">
 
-This is a simple game where your character must move
-and avoid the enemies for as long as possible.
+<img src="./docs/img/icon.png" alt="Icon" width="150">
 
-This is a finished version of the game featured in the
-["Your first 2D game"](https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html)
-tutorial in the documentation. For more details,
-consider following the tutorial in the documentation.
+# Esquiva el enjambre
 
-Language: GDScript
+[![Godot](https://img.shields.io/badge/Godot-4.4-blue.svg)](https://godotengine.org/)
 
-Renderer: Compatibility
+¡Prepárate para retorcerte mientras te abres paso por un mundo invadido por bichos!
 
-Note: There is a C# version available [here](https://github.com/godotengine/godot-demo-projects/tree/master/mono/dodge_the_creeps).
+</div>
 
-Check out this demo on the asset library: https://godotengine.org/asset-library/asset/515
+## Sobre Esquiva El Enjambre
 
-## Screenshots
+El juego trata sobre esquivar bichos que irán apareciendo de manera aleatoria en el mapa, mientras más tiempo estés vivo mejor.
+
+<div align="center">
 
 ![GIF from the documentation](https://docs.godotengine.org/en/latest/_images/dodge_preview.gif)
 
+</div>
+
+## Origen
+
+El juego nace del tutorial oficial de Godot para aprender a realizar el primer juego en 2D 
+["Your first 2D game"](https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html)
+
+- Lenguaje de programación usado: GDScript
+- Renderizado: Compatible
+- El repo fue alterado para que fuera compatible con Godot 4.4.1
+- El repo original está disponible en el siguiente enlace: https://godotengine.org/asset-library/asset/515
+- Para mayor información se recomienda leer la documentación oficial.
+
+## Capturas de pantalla
+
+<div align="center">
+
 ![Screenshot](screenshots/dodge.png)
 
-## Copying
+</div>
+
+## Derechos de autor
 
 `art/House In a Forest Loop.ogg` Copyright &copy; 2012 [HorrorPen](https://opengameart.org/users/horrorpen), [CC-BY 3.0: Attribution](http://creativecommons.org/licenses/by/3.0/). Source: https://opengameart.org/content/loop-house-in-a-forest
 
