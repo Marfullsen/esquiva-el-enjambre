@@ -39,6 +39,42 @@ El juego nace del tutorial oficial de Godot para aprender a realizar el primer j
 
 </div>
 
+## Sobre la migración del código
+
+El código fue migrado desde su origen en Godot 4.2 a Godot 4.4, a pesar que fueron cambios menores igual hubieron cambios que no pasaron desapercibidos.
+
+### Primer mensaje
+
+<div align="center">
+
+![Screenshot](docs/img/first_warning_4.2_to_4.4.png)
+
+</div>
+
+
+<div align="center">
+
+![Screenshot](docs/img/first_warning_4.2_to_4.4_en.png)
+
+</div>
+
+---
+
+### Segundo mensaje
+
+<div align="center">
+
+<img src="docs/img/second_warning_UIDs.png" alt="Screenshot" width="650">
+
+</div>
+
+
+<div align="center">
+
+<img src="docs/img/second_warning_UIDs_en.png" alt="Screenshot" width="650">
+
+</div>
+
 ## Derechos de autor
 
 `art/House In a Forest Loop.ogg` Copyright &copy; 2012 [HorrorPen](https://opengameart.org/users/horrorpen), [CC-BY 3.0: Attribution](http://creativecommons.org/licenses/by/3.0/). Source: https://opengameart.org/content/loop-house-in-a-forest
